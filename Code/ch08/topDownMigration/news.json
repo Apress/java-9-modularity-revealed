@@ -1,0 +1,19 @@
+[{
+    "id":"1",
+    "title":"News1",
+    "category":"java",
+    "link":"images/news1.png"
+  },
+  {
+    "id":"2",
+    "title":"News2",
+    "category":"python",
+    "link":"images/news2.png"
+  },
+  {
+    "id":"3",
+    "title":"News3",
+    "category":"php",
+    "link":"images/news3.png"
+  }
+]
